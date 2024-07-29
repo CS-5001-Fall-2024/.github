@@ -1,6 +1,10 @@
 # CS 5001 - Fall 2024
 
-<p align="right"> your-text-here </p>
+<p align="right"> 
+	<a href="https://www.northeastern.edu">Canvas[REPLACE]</a>
+
+</p>
+
 
 
 <button name="button" onclick="northeaster.edu">Test</button>
