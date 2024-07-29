@@ -1,5 +1,6 @@
 # CS 5001 - Fall 2024
 
+# Home
 
 <table>
 <thead>
@@ -9,6 +10,8 @@
 <a href="https://github.com/CS-5001-Fall-2024/Resources/blob/main/Syllabus.md">📚 Syllabus</a> 
 ・
 <a href="https://github.com/CS-5001-Fall-2024/Resources/blob/main/Assignments.md">🎯Assignments </a>
+・
+<a href="https://github.com/CS-5001-Fall-2024/Resources/blob/main/Schedule.md">📆Schedule </a>
 </th>
 </p>
 
