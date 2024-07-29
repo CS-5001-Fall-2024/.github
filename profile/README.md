@@ -1,9 +1,18 @@
 # CS 5001 - Fall 2024
 
-<p align="right"> 
-	<a href="https://www.northeastern.edu">Canvas[REPLACE]</a>
+a | b | c | d
+d | e | f| g
 
-</p>
+
+<a href="test">TEST</a> | abc
+
+<div>
+	
+</div>
+
+<div dir="rtl"> 
+	<a href="https://https://northeastern.instructure.com/courses/192359">Canvas</a> | <a href="https://teams.microsoft.com/l/team/19%3A9nlYBJIFq3KpzcLYnx-qEezgyGMYCAnvlTI-eppIXh81%40thread.tacv2/conversations?groupId=28ae1c9a-c508-4f79-9854-ec6d06de5211&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e7">Teams</a>
+</div>
 
 
 
