@@ -1,15 +1,7 @@
 # CS 5001 - Fall 2024
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-</style>
 
-<table>
+<table width="100%"  style="border:0px solid white; width:100%;">
 <thead>
 <tr>
 <th width="750px">
