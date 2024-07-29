@@ -5,7 +5,7 @@
 <thead>
 <tr>
 <th width="750px">
-<p align="left">
+<p halign="left" valign="center">
 <a href="XXX">📚 Syllabus</a> 
 &nbsp;
 ・
