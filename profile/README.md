@@ -1,6 +1,6 @@
 # CS 5001 - Fall 2024
 
-<div style="text-align: right"> your-text-here </div>
+<p align="right"> your-text-here </p>
 
 
 <button name="button" onclick="northeaster.edu">Test</button>
