@@ -2,7 +2,6 @@
 
 <table border="0">
 <thead>
-
 <tr>
 <th width="500px">Syllabus Assignments </th>
 <th width="750px"> </th>
