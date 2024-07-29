@@ -1,10 +1,10 @@
 # CS 5001 - Fall 2024
 
 
-<table width="100%" style="border:0px solid white; width:100%;">
+<table>
 <thead>
 <tr>
-<th width="50%">
+<th width="750px">
 <p align="left">
 <a href="XXX">📚 Syllabus</a> 
 ・
@@ -12,7 +12,7 @@
 </th>
 </p>
 
-<th width="50%">
+<th width="750px">
 <p align="right">
 <a href="https://northeastern.instructure.com/courses/192359">
 <img height="15" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01M7s52LIEYfk7SBpDgMLW-EcwM1JzO3N1A&s"/> 
